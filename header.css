@@ -1,0 +1,17 @@
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+  font-size: 20px;
+	text-align: center;
+	
+}
+
+ul#nav {
+	min-width: 50%;
+	list-style: none;
+	padding-top: 5%;
+	}
+	ul#nav li {
+		display: inline;
+	}
